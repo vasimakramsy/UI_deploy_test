@@ -1,7 +1,7 @@
 import boto3
 import json 
 
-ENDPOINT_NAME = "huggingface-pytorch-tgi-inference-2023-12-23-13-34-48-294"
+ENDPOINT_NAME = "##############"
 # runtime = boto3.client('runtime.sagemaker')
 
 def load_llm(payload):
